@@ -1,5 +1,5 @@
 # BeMyGest
-The best place to manage the properties
+The best place to manage your property
 npm install
 # o
 yarn install
